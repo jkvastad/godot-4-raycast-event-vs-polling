@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://g6yxh82jv2n6"]
+
+[ext_resource type="Script" path="res://RayCaster.cs" id="1_5upih"]
+
+[node name="RayCaster" type="Node"]
+script = ExtResource("1_5upih")

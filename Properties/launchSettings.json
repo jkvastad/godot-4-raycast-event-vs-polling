@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "RaycastTest": {
+      "commandName": "Project"
+    },
+    "RaycastTestDebug": {
+      "commandName": "Executable",
+      "executablePath": "D:\\Tools\\Godot\\Godot_v4.2-stable_mono_win64\\Godot_v4.2-stable_mono_win64.exe",
+      "workingDirectory": "D:\\Projects\\Godot Projects\\RaycastTest"
+    }
+  }
+}
