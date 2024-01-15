@@ -23,6 +23,9 @@ offset_bottom = 243.0
 [node name="Rectangle" parent="." instance=ExtResource("2_wgrpa")]
 position = Vector2(600, 300)
 
+[node name="Rectangle2" parent="." instance=ExtResource("2_wgrpa")]
+position = Vector2(628, 264)
+
 [node name="Cube" parent="." instance=ExtResource("2_kxuq3")]
 
 [node name="Cube2" parent="." instance=ExtResource("2_kxuq3")]
